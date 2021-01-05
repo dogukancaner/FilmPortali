@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\Ekstra Araçlar\MenuStrıp Kullanımı\MenuStrıp Kullanımı\bin\Debug\MenuStrıp Kullanımı.exe.config
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\Ekstra Araçlar\MenuStrıp Kullanımı\MenuStrıp Kullanımı\bin\Debug\MenuStrıp Kullanımı.exe
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\Ekstra Araçlar\MenuStrıp Kullanımı\MenuStrıp Kullanımı\bin\Debug\MenuStrıp Kullanımı.pdb
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\Ekstra Araçlar\MenuStrıp Kullanımı\MenuStrıp Kullanımı\obj\Debug\MenuStrıp Kullanımı.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\Ekstra Araçlar\MenuStrıp Kullanımı\MenuStrıp Kullanımı\obj\Debug\MenuStrıp_Kullanımı.Form1.resources
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\Ekstra Araçlar\MenuStrıp Kullanımı\MenuStrıp Kullanımı\obj\Debug\MenuStrıp_Kullanımı.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\Ekstra Araçlar\MenuStrıp Kullanımı\MenuStrıp Kullanımı\obj\Debug\MenuStrıp Kullanımı.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\Ekstra Araçlar\MenuStrıp Kullanımı\MenuStrıp Kullanımı\obj\Debug\MenuStrıp Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\Ekstra Araçlar\MenuStrıp Kullanımı\MenuStrıp Kullanımı\obj\Debug\MenuStrıp Kullanımı.exe
+C:\Users\Administrator\Desktop\C# Udemy Çalışmalarım\Ekstra Araçlar\MenuStrıp Kullanımı\MenuStrıp Kullanımı\obj\Debug\MenuStrıp Kullanımı.pdb
+C:\Users\Administrator\Desktop\Çalışmalarım\Film Portalı (Githuba Atılcak)\MenuStrıp Kullanımı\bin\Debug\MenuStrıp Kullanımı.exe.config
+C:\Users\Administrator\Desktop\Çalışmalarım\Film Portalı (Githuba Atılcak)\MenuStrıp Kullanımı\bin\Debug\MenuStrıp Kullanımı.exe
+C:\Users\Administrator\Desktop\Çalışmalarım\Film Portalı (Githuba Atılcak)\MenuStrıp Kullanımı\bin\Debug\MenuStrıp Kullanımı.pdb
+C:\Users\Administrator\Desktop\Çalışmalarım\Film Portalı (Githuba Atılcak)\MenuStrıp Kullanımı\obj\Debug\MenuStrıp Kullanımı.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Çalışmalarım\Film Portalı (Githuba Atılcak)\MenuStrıp Kullanımı\obj\Debug\MenuStrıp_Kullanımı.Form1.resources
+C:\Users\Administrator\Desktop\Çalışmalarım\Film Portalı (Githuba Atılcak)\MenuStrıp Kullanımı\obj\Debug\MenuStrıp_Kullanımı.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Çalışmalarım\Film Portalı (Githuba Atılcak)\MenuStrıp Kullanımı\obj\Debug\MenuStrıp Kullanımı.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Çalışmalarım\Film Portalı (Githuba Atılcak)\MenuStrıp Kullanımı\obj\Debug\MenuStrıp Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Çalışmalarım\Film Portalı (Githuba Atılcak)\MenuStrıp Kullanımı\obj\Debug\MenuStrıp Kullanımı.exe
+C:\Users\Administrator\Desktop\Çalışmalarım\Film Portalı (Githuba Atılcak)\MenuStrıp Kullanımı\obj\Debug\MenuStrıp Kullanımı.pdb
